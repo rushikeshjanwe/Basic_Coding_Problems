@@ -1,6 +1,6 @@
 package com.rushi;
 
-public class Reverse_String {
+public class Pallendrome_Number {
 	
 	static boolean isPalindrome(int number) {
         if (number < 0) {
@@ -23,6 +23,7 @@ public class Reverse_String {
         } else {
             System.out.println("It is NOT a Palindrome: " + original);
             return false;
+            
         }
     }
 
