@@ -13,6 +13,7 @@ public class Fibonacci_series {
 			int next=a+b; //0+1=1
 			a=b; // a=1
 			b=next; //b=1
+
 			
 		}
 		
