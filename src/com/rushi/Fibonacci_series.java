@@ -15,10 +15,12 @@ public class Fibonacci_series {
 			b=next; //b=1
 
 			
-		}
+		}	
 		
 	}
+		 
 	public static void main(String[] args) {
-		fibonacci(10);
+		//fibonacci(10);
+		
 	}
 }
