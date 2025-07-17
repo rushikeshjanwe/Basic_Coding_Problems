@@ -13,7 +13,6 @@ public class Arrays_Questions {
 				System.out.println(arr[i]);
 			}
 		}
-	
 	}
 	
 	
