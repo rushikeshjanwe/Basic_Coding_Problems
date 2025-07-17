@@ -1,7 +1,6 @@
 package com.rushi;
 
 public class Arrays_Questions {
-
 	
 	public static void main(String[] args) {
 		
