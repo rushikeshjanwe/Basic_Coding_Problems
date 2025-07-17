@@ -16,7 +16,5 @@ public class Arrays_Questions {
 	}
 	
 	
-	
-	
 
 }
