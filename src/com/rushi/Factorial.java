@@ -9,9 +9,8 @@ public class Factorial {
 			  result=result*i;
 
 			 
-		 }
-		 
-		 System.out.println(result);
+		 } 
+		 System.ou.println(result);
 		 return result;
 	 }
 	
