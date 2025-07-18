@@ -11,7 +11,6 @@ public class Factorial {
 		 System.ou.println(result);
 		 return result;
 	 }
-	
 	public static void main(String[] args) {
 		factorial(10);
 	}
